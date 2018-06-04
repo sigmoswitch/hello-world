@@ -1,3 +1,3 @@
 # hello-world
 
-somebody need some switching done?
+like to experiment with different way of interacting with music
