@@ -1,3 +1,3 @@
 # hello-world
 
-somebody need some switching done?
+some notes and some ideas. write it here.
